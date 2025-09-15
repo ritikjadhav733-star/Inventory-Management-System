@@ -18,6 +18,6 @@ O Instead of using pen and paper or a complicated spreadsheet, this system allow
 
   2) View all the products they have in stock.
 
-  3) [Future Feature] Update the number of products on hand, like when a customer buys something or a new shipment arrives.
+  3) Update the number of products on hand, like when a customer buys something or a new shipment arrives.
 
-  4) [Future Feature] Remove an item from their list if they stop selling it.
+  4) Remove an item from their list if they stop selling it.
